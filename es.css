@@ -1,0 +1,119 @@
+body
+{
+	background: url(fondo.jpeg);
+
+}
+
+
+.info2
+{
+	position: absolute;
+	background: url(foto.jpeg);
+	top: 20%;
+	left: 73%;
+	width: 20%;
+	height: 50%;
+	background-size: cover;
+}
+
+.letras
+{
+	background: url(nombre.png);
+	position: absolute;
+	top: 1%;
+	width: 60%;
+	left: 20%;
+	height: 30%;
+	background-size: cover;
+	 
+}
+
+.p
+{
+    position: absolute;
+	display: block;
+	top: 35%;
+	background-color: #F7819F;
+	border-radius: 30px 30px 30px / 30px 30px;
+	width: 200px;
+	height: 70px;
+	text-align: center;
+	left: 10%;
+}
+
+.p
+{
+    position: absolute;
+	display: block;
+	top: 35%;
+	background-color: #DAA4FF;
+	border-radius: 30px 30px 30px / 30px 30px;
+	width: 200px;
+	height: 70px;
+	text-align: center;
+	left: 10%;
+}
+
+.p:hover
+{
+    position: absolute;
+	display: block;
+	top: 35%;
+	background-color: #C9FFA4;
+	border-radius: 30px 30px 30px / 30px 30px;
+	width: 200px;
+	height: 70px;
+	text-align: center;
+	left: 10%;
+	   }
+.p1
+{
+    position: absolute;
+	display: block;
+	top: 35%;
+	background-color: #DAA4FF;
+	border-radius: 30px 30px 30px / 30px 30px;
+	width: 200px;
+	height: 70px;	;
+	text-align: center;
+	left: 30%;
+}
+.p1:hover
+{
+    position: absolute;
+	display: block;
+	top: 35%;
+	background-color: #C9FFA4;
+	border-radius: 30px 30px 30px / 30px 30px; // con hover
+	width: 200px;
+	height: 70px;	;
+	text-align: center;
+	left: 30%;
+}
+
+.p2
+{
+    position: absolute;
+	display: block;
+	top: 50%;
+	background-color: #DAA4FF;
+	border-radius: 30px 30px 30px / 30px 30px;
+	width: 200px;
+	height: 70px;	;
+	text-align: center;
+	left: 20%;
+}
+.p2:hover
+{
+    position: absolute;
+	display: block;
+	top: 50%;
+	background-color: #C9FFA4; // cambiar color
+	border-radius: 30px 30px 30px / 30px 30px;
+	width: 200px;
+	height: 70px;	;
+	text-align: center;
+	left: 20%;
+}
+
+
